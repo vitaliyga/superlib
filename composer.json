@@ -1,5 +1,5 @@
 {
-    "name":"mycompany/superlib",
+    "name":"vitaliyga/superlib",
     "version":"2.7.0",
     "require":{
         "php":">=5.3.0"
